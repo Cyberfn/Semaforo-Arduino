@@ -1,4 +1,4 @@
-# Semaforo arduino 
+# Semaforo (arduino) 
 
 Os projetos são uma maneira de fixar os meus conhecimentos aprendidos ao longo do tempo. A ideia é usar todos os conceitos novos para montar algo que tenha uma funcionalidade ou aplicação mais complexa e divertida, como, por exemplo, o semáforo de LEDs que montei com o tinkercad
 
