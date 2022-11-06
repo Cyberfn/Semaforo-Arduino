@@ -13,4 +13,6 @@ A ideia então é adicionar um par de LEDs, um vermelho e um verde, que indicar�
 ![image](https://user-images.githubusercontent.com/105546921/200121902-092b486c-1d40-4841-a8b9-3030d81f4070.png)
 
 ## Meu modelo fisico
-![IMG-20221105-WA0013](https://user-images.githubusercontent.com/105546921/200123614-c288be3c-8018-4b06-bd13-c8f9d1a8ed9b.jpg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105546921/200123614-c288be3c-8018-4b06-bd13-c8f9d1a8ed9b.jpg" width="600px" />
+</div>
